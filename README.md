@@ -18,32 +18,32 @@
 <p>该仓库更新最新可用的上外网hosts，使用本处的hosts可以让你获得较为完美的youtube视频体验，手机版还可以进入play商店下载应用，体验较完美的google服务等，并且本处的hosts原先的时候评价也比较好，欢迎你的使用。</p>
 <br />
 <h3>特别说明：</h3>
-<p>Google、twitter、facebook、dropbox、archive相关的所有ip地址均已被封干净了，目前我没有找到任何能在各种网络下随意使用的对应官方ip，代理ip马上也要进入枯竭状态了。（我是指国内三网都可用的）</p>
+<p>Google、Twitter、Facebook、Dropbox、Archive相关的所有ip地址均已被封干净了，目前我没有找到任何能在各种网络下随意使用的对应官方IP，代理IP马上也要进入枯竭状态了。（我是指国内三网都可用的）</p>
 <h3>更新预告：</h3>
 <p>1.因为兼容性原因(安卓版本不一样导致应用使用hosts通讯反复出现问题)，手机版hosts下线调整中，再次上线之后将会带给你无比舒服顺畅的上网体验，重上线日期待定。</p>
 <h3>替换方法：</h3>
-<p>1.苹果手机可以使用手机助手类软件越狱后，用手机助手软件替换进/etc/hosts，安卓手机可以在root后使用re管理器替换进hosts，linux也一样。</p>
+<p>1.苹果手机可以使用手机助手类软件越狱后，用手机助手软件替换进/etc/hosts，安卓手机可以在root后使用RE管理器替换进hosts，Linux也一样。</p>
 <p>2.windows替换位置是在 C:\Windows\System32\drivers\etc\hosts，下载后改名替换即可（没有扩展名哦，无格式文本文件）</p>
 <br />
 <h3>本处hosts支持网站：</h3>
 <h4>新闻网站：</h4>
 <p>美国之音、路透社、博讯、华尔街日报、维基解密、大纪元、新唐人、维基新闻、纽约时报大部分页面 等</p>
 <h4>互联网服务：</h4>
-<p>Google（全系列服务已完美支持，除了blogger，bloggger用户网址只添加了部分知名用户）、Youtube（可以看视频）、duckduckgo、Twitter、facebook、yahoo、frlickr、dropbox、soundcloud、tumblr、wikipedia、telegram（不支持客户端）、daylimotion、line、filpbroad、slideshare、pornhub、Microsoft部分被墙服务 等</p>
+<p>Google（全系列服务已完美支持，除了Blogger，Bloggger用户网址只添加了部分知名用户）、YouTube（可以看视频）、duckduckgo、Twitter、facebook、Yahoo!、Flickr、DropBox、SoundCloud、Tumblr、Wikipedia、Telegram（不支持客户端）、DailyMotion、Line、Filpboard、Slideshare、PornHub、Microsoft部分被墙服务 等</p>
 <h4>其他类互联网网站：</h4>
-<p>archive.org（不支持查看收藏的东西，因为需要添加的网址高达几百万个）、github被墙部分页面 等</p>
+<p>archive.org（不支持查看收藏的东西，因为需要添加的网址高达几百万个）、GitHub被墙部分页面 等</p>
 <br />
 <h4>还有部分网站没有在上面列出。</h4?
 <br />
 <h3>友情提示：</h3>
-<p>1.如果ip地址连着连着就不通了很有可能是被运营商反向封了访问权限，重新拨号换ip就可以解决，如果无法解决那就是ip挂了，因此也请你及时报issuses。</p>
-<p>2.部分省份运营商已知可能无法正常使用本处hosts（譬如youtube遭遇基于SNI辨识的TLS限速从而导致视频速度慢，广电网根本连不上等等），这个是你我不饿能左右的，我也没办法。</p>
+<p>1.如果IP地址连着连着就不通了很有可能是被运营商反向封了访问权限，重新拨号换IP就可以解决，如果无法解决那就是ip挂了，因此也请你及时报issues。</p>
+<p>2.部分省份运营商已知可能无法正常使用本处hosts（譬如YouTube遭遇基于SNI辨识的TLS限速从而导致视频速度慢，广电网根本连不上等等），这个是你我不饿能左右的，我也没办法。</p>
 <br />
 <h3>常见问题解答：</h3>
 <p>1.我steam 101 103咋办？</p>
 <p>答：打开hosts，自行搜索steam段，删掉段所有条目再试试就行了。</p>
-<p>为啥我youtube这么慢：</p>
-<p>答：两方面原因，第一可能是isp限制（例如中国电信故意QOS），第二可能是出国线路问题，第三可能就是用的人太多了，本人原先小范围更新hosts的时候也尝试众筹自建过youtube视频代理（香港家宽），结果还是没几天流量就打满了，在升级也不行，升级两小时之内也是满了。。。。。1G带宽根本不够用，两个月不到计划就挂了。。。烧钱。。。还有就是现在原意带youtube视频hosts条目的更新源也没几个，原因就是维护烦人。</p>
+<p>为啥我YouTube这么慢：</p>
+<p>答：两方面原因，第一可能是ISP限制（例如中国电信故意QOS），第二可能是出国线路问题，第三可能就是用的人太多了，本人原先小范围更新hosts的时候也尝试众筹自建过YouTube视频代理（香港家宽），结果还是没几天流量就打满了，在升级也不行，升级两小时之内也是满了。。。。。1G带宽根本不够用，两个月不到计划就挂了。。。烧钱。。。还有就是现在原意带YouTube视频hosts条目的更新源也没几个，原因就是维护烦人。</p>
 <p>看视频的话如果直连不行，那还是用翻墙软件吧。</p>
  <p>为什么我在手机上用不了这个hosts</p>
  <p>答：请自行使用notepad转换文档格式为unix格式。</p>
