@@ -4,14 +4,14 @@
 <meta name"keywords" content="2017hosts,wangchunming,githubhosts,怎么才能上google,怎么才能上谷歌,怎么才能用googleplay,googleplay打不开,能看youtube的hosts,能上谷歌的hosts,googlehosts">
 </meta>
 </head>
-<p>注意：本处提供的电脑版本hosts如果要用在手机上，那么仅能用于安卓手机Android7.1.2及以上版本，如果用在7.1.2以下功能会不正常，不过，还是不建议在手机上使用hosts</p>
+<p>注意：本处提供的电脑版本hosts如果要用在手机上，那么仅能用于安卓手机Android7.1.2及以上版本，如果用在7.1.2版本以下功能会不正常，不过，还是不建议在手机上使用hosts</p>
 <p>我这人吧，爱忘事，需要更新的时候我知道以后假如忘了你也可以催催我，不用不好意思：<a href="mailto:chunmingshq@gmail.com">猛戳这里发邮件或者是发信到chunmingshq@gmail.com</a></p>
 <img src="https://camo.githubusercontent.com/af4cf563b43a022ec902562c91c26521d2ed9dbb/68747470733a2f2f7777772e676f6f676c652e636f6d2f6c6f676f732f646f6f646c65732f323031362f686f6c69646179732d323031362d6461792d332d736f75746865726e2d68656d697370686572652d353138353031313932393035353233322d687032782e676966" />
 <br />
 <br />
 <h3>Hi，欢迎你来到本处Hosts更新源</h3>
 <h4>本项目从2015年11月开始在部分高校论坛内小范围更新，于2017年1月迁移至GitHub更新，欢迎新老盆友们光顾，也欢迎其他人协助帮忙建立镜像，谢谢。</h4>
-<h4>本项目从2016年1月起就有专人维护，随时检测hosts可用性，只要hosts速度慢到不能用，或者是全国挂掉25%及以上，这里就会主动大面积更新（如果挂掉某个服务的话一般24小时内就会很快更新，没ip或者其他情况除外），当然了，日常也会经常性测试网址完整度，只要发现细节做的不够好那也会主动更新，本处hosts没有版权（因为不是计算机软件），其他人转载无需任何声明，当然，如果你认为他人需要获取及时的更新的话那么可以仅仅附上原链接就好。</h4>
+<h4>本项目从2016年1月起就有专人维护，随时检测hosts可用性，只要hosts速度慢到不能用，或者是全国挂掉25%及以上，这里就会主动大面积更新（如果挂掉某个服务的话一般24小时内就会很快更新，没IP或者其他情况除外），当然了，日常也会经常性测试网址完整度，只要发现细节做的不够好那也会主动更新，本处hosts没有版权（因为不是计算机软件），其他人转载无需任何声明，当然，如果你认为他人需要获取及时的更新的话那么可以仅仅附上原链接就好。</h4>
 <h4>hosts可能仅仅就是一个上网辅助工具而已，有些时候可的确真不能光指着它，还有哦，大部分网站都是需要https打开的。</h4>
 <br />
 <h3>项目介绍:</h3>
@@ -29,7 +29,7 @@
 <h4>新闻网站：</h4>
 <p>美国之音、路透社、博讯、华尔街日报、维基解密、大纪元、新唐人、维基新闻、纽约时报大部分页面 等</p>
 <h4>互联网服务：</h4>
-<p>Google（全系列服务已完美支持，除了Blogger，Bloggger用户网址只添加了部分知名用户）、YouTube（可以看视频）、duckduckgo、Twitter、facebook、Yahoo!、Flickr、DropBox、SoundCloud、Tumblr、Wikipedia、Telegram（不支持客户端）、DailyMotion、Line、Filpboard、Slideshare、PornHub、Microsoft部分被墙服务 等</p>
+<p>Google（全系列服务已完美支持，除了Blogger，Bloggger用户网址只添加了部分知名用户）、YouTube（可以看视频）、DuckDuckGo、Twitter、facebook、Yahoo!、Flickr、DropBox、SoundCloud、Tumblr、Wikipedia、Telegram（不支持客户端）、DailyMotion、Line、Filpboard、SlideShare、PornHub、Microsoft部分被墙服务 等</p>
 <h4>其他类互联网网站：</h4>
 <p>archive.org（不支持查看收藏的东西，因为需要添加的网址高达几百万个）、GitHub被墙部分页面 等</p>
 <br />
